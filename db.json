@@ -1,0 +1,38 @@
+{
+    "categorias": [
+        {
+            "id": 1,
+            "nome": "Ação",
+            "img": "assets/acao.jpeg"
+        },
+        {
+            "id": 2,
+            "nome": "Romance",
+            "img": "assets/romance.jpg"
+        },
+        {
+            "id":3,
+            "nome": "Terror",
+            "img": "assets/terror.jpg"
+        }
+    ],
+    "filmes": [
+        {"id": 1,
+        "descricao": "Tropa de Elite 1",
+        "duracao": "1h 56m",
+        "ano": 2007,
+        "indicacao": "16 anos",
+        "img": "/assets/tropa1.jpg",
+        "categoriaId": 1
+    },
+    {
+        "id": 3,
+        "descricao": "Tropa de Elite 1",
+        "duracao": "1h 56m",
+        "ano": 2007,
+        "indicacao": "16 anos",
+        "img": "/assets/tropa1.jpg",
+        "categoriaId": 3
+    }
+    ]
+}
